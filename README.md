@@ -11,10 +11,10 @@ Made in Ukraine:
 
 
 - 👋 Hi, I’m @eugen-tkachenko
-- 👀 I’m interested in Science, Books and Codes
-- 🌱 I’m currently learning MHD numerical simulations
+- 👀 I’m interested in Software, Science and Books
+- 🌱 I’m currently a Ph.D. candidate in Computational Plasma Physics
 - 💞️ I’m looking to collaborate on the future
-- 📫 How to reach me - by a pull request)
+- 📫 How to reach me - via links at my personal web site, https://eugen-tkachenko.github.io/
 
 <!---
 eugen-tkachenko/eugen-tkachenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
