@@ -13,7 +13,7 @@ Made in Ukraine:
 - 👋 Hi, I’m @eugen-tkachenko
 - 👀 I’m interested in Software, Science and Books
 - 🌱 I’m currently a Ph.D. candidate in Computational Plasma Physics
-- 💞️ I’m looking to collaborate on the future
+- 💞️ I’m looking forward to collaborating on the future together
 - 📫 How to reach me - via links at my personal web site, https://eugen-tkachenko.github.io/
 
 <!---
