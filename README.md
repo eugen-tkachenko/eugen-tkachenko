@@ -3,16 +3,13 @@
 StandWithUkraine:
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-Russian Warship:
-[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
-
 Made in Ukraine:
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
 
 - 👋 Hi, I’m @eugen-tkachenko
 - 👀 I’m interested in Software, Science and Books
-- 🌱 I’m currently a Ph.D. candidate in Computational Plasma Physics
+- 🌱 I’m a Ph.D. in Computational Plasma Physics
 - 💞️ I’m looking forward to collaborating on the future together
 - 📫 How to reach me - via links at my personal web site, https://eugen-tkachenko.github.io/
 
